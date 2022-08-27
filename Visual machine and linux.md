@@ -1,2 +1,2 @@
 VMware Visual machine  
-linux<=Ubuntu  server  
+linux<-  Ubuntu server  
