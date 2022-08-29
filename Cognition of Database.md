@@ -9,3 +9,6 @@ CRUD: using add,delete,correct,search.
 
 数据库种类：MySql/Oracle/MongoDB/SQLServer  
 language：T-Sql  
+Recommand: MySql(Relationship Database)  
+           Redis(non-Relationship Database)  
+
