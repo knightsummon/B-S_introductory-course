@@ -7,3 +7,5 @@ Dynamic websites: having interface with users.
 CRUD：对数据 增删改查。  
 CRUD: using add,delete,correct,search.  
 
+数据库种类：MySql/Oracle/MongoDB/SQLServer  
+language：T-Sql  
